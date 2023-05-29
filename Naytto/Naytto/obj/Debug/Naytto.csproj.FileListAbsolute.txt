@@ -1,0 +1,11 @@
+C:\Users\eelis.pikkupeura\Naytto\Naytto\bin\Debug\Naytto.exe.config
+C:\Users\eelis.pikkupeura\Naytto\Naytto\bin\Debug\Naytto.exe
+C:\Users\eelis.pikkupeura\Naytto\Naytto\bin\Debug\Naytto.pdb
+C:\Users\eelis.pikkupeura\Naytto\Naytto\obj\Debug\Naytto.csproj.AssemblyReference.cache
+C:\Users\eelis.pikkupeura\Naytto\Naytto\obj\Debug\Naytto.csproj.SuggestedBindingRedirects.cache
+C:\Users\eelis.pikkupeura\Naytto\Naytto\obj\Debug\Naytto.Form1.resources
+C:\Users\eelis.pikkupeura\Naytto\Naytto\obj\Debug\Naytto.Properties.Resources.resources
+C:\Users\eelis.pikkupeura\Naytto\Naytto\obj\Debug\Naytto.csproj.GenerateResource.cache
+C:\Users\eelis.pikkupeura\Naytto\Naytto\obj\Debug\Naytto.csproj.CoreCompileInputs.cache
+C:\Users\eelis.pikkupeura\Naytto\Naytto\obj\Debug\Naytto.exe
+C:\Users\eelis.pikkupeura\Naytto\Naytto\obj\Debug\Naytto.pdb
